@@ -47,7 +47,7 @@
             this.ClientSize = new System.Drawing.Size(124, 121);
             this.Controls.Add(this.mainPanel);
             this.Name = "MainForm";
-            this.Text = "M3i Receiver Finder";
+            this.Text = "M3i Multi-Bike Receiver Finder";
             this.ResumeLayout(false);
 
         }

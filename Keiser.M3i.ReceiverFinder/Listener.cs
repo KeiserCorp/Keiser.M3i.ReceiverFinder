@@ -15,7 +15,7 @@ namespace Keiser.M3i.ReceiverFinder
         private Thread thread;
         private bool stop = false;
         public string ipAddress = "239.10.10.10";
-        public UInt16 ipPort = 35680;
+        public UInt16 ipPort = 35679;
 
         public Listener() {
             thread = new Thread(worker);
